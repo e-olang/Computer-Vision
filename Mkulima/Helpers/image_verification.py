@@ -1,3 +1,14 @@
+"""
+Was having issues with the image verification for an image classifier. Needed verifcation to ensure that the image is a real image thus reduce chances of false positives.
+For this specific task images hade to have some green pigmnent. This is not ideal but it works for the purpose of this project.
+Resizing the image to 256 by 256 pixels reducues the area to check thus kind of efficient.
+
+If you have a better a way of doing this, please let me know. oluoch9@gmail.com
+
+Thanks.
+"""
+
+
 # PIL is the Python Imaging Library
 # install using pip install pillow or pip3 install pillow or conda install -c conda-forge pillow
 from PIL import Image   
@@ -38,5 +49,5 @@ def verify(image_path):
 
 """
 Having issues with the image verification using OpenCV. Pillow is working fine.
-Will look into this later. 
+May look into this later. 
 """
