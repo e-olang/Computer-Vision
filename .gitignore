@@ -1,8 +1,14 @@
 WristFracture/data/.DS_Store
 WristFracture/data/
-.DS_Store
-.DS_Store
+
 Ofline Assets
 Mkulima/Maize Disiease Classifier/Flask App/app.py
-*.csv
+
+
 *.png
+*.jpeg
+*.jpg
+*.DS_Store
+*.csv
+*.pth
+*.zip
