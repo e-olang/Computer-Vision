@@ -1,0 +1,6 @@
+
+
+
+pip install kaggle opencv-python matplotlib pillow scikit-learn
+pip install tensorflow[and-cuda]
+apt-get update && apt-get install libgl1
