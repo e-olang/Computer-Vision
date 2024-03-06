@@ -12,3 +12,5 @@ Mkulima/Maize Disiease Classifier/Flask App/app.py
 *.csv
 *.pth
 *.zip
+*.keras
+*.hdf5
